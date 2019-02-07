@@ -1,0 +1,1 @@
+Conventionally a computer consists of some form of memory, at least one element that carries out arithmetic and logic operations, and a sequencing and control unit that can change the order of operations based on the information that is stored. Peripheral devices allow information to be entered from an external source, and allow the results of operations to be sent out.

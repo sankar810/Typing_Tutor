@@ -1,0 +1,1 @@
+A computers processing unit executes series of instructions that make it read, manipulate and then store data. Conditional instructions change the sequence of instructions as a function of the current state of the machine or its environment.

@@ -1,0 +1,1 @@
+A general purpose computer has four main components: the arithmetic logic unit, the control unit, the memory, and the input and output devices . These parts are interconnected by busses, often made of groups of wires.
